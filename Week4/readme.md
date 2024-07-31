@@ -1,1 +1,1 @@
-HAM100000 mdeical image analysis
+HAM10000 medical image analysis
